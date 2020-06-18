@@ -60,6 +60,7 @@ strong {
   margin-bottom: 0px;
   margin-right: 0px;
   margin-left:0px;
+  font-style: italic;
 }
 
 .description {
@@ -67,6 +68,7 @@ strong {
   margin-bottom: 10px;
   margin-left: 0px;
   margin-right: 0px;
+
 }
 
 .menu {
@@ -76,13 +78,16 @@ strong {
   margin-right:0px;
   margin:0 auto;
   padding: 0px;
+  text-align: center;
 }
 .list {
   display: inline;
   list-style-type: none;
+
 }
 ul {
   font-size:1em;
+
 }
 
 #degrees {
@@ -106,6 +111,7 @@ ul {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
+  text-align: center;
 
 }
 
