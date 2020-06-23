@@ -1,0 +1,12 @@
+h1 {
+  font-family: Georgia, Arial, serif;
+  color: red;
+  text-align: center;
+}
+
+
+#content {
+  width: 900px;
+  font-size: 12px;
+  font-family: Helvetica, Arial, "sans-serif";
+}
