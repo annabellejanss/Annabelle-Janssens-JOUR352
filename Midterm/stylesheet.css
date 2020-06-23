@@ -1,0 +1,103 @@
+h1 {
+  font-family: Georgia, Arial, serif;
+  text-align: left;
+  color: orange;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: Georgia, Arial, serif;
+  color: gray;
+  font-size: 20px;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 20px;
+  color: orange;
+  text-align: left;
+  font-style: bold;
+}
+
+#credit {
+  font-size: 17px;
+  color: gray;
+  font-style: italic;
+}
+
+
+
+#content {
+  width: 900px;
+  font-size: 12px;
+  font-family: Helvetica, Arial, "sans-serif";
+  width:100%;
+  max-width:1200px;
+  margin:0 auto;
+  color:black;
+  font-style: bold;
+
+}
+
+.image1 {
+  width: 50%;
+  height: 50%;
+}
+
+.image2 {
+  width:40%;
+  height: 50%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: 50px;
+  text-align: right;
+
+}
+.image3 {
+
+  width:28%;
+  height: 28%;
+  display: inline-block;
+  margin-right: 330px;
+  margin-left: auto;
+  margin-top: 20px;
+
+}
+
+#images {
+  text-align: center;
+
+}
+
+#caption {
+  font-style: bold;
+  font-style: italic;
+  text-align: left;
+}
+
+#caption2 {
+
+  display: inline-block;
+  font-style: italic;
+  font-style: bold;
+  margin-left: 550px;
+  margin-top: 0 px;
+  padding-bottom: 0px;
+}
+p {
+  font-size: 12px;
+  font-family: Helvetica, Arial, "sans-serif";
+}
+
+blockquote {
+  font-family: Helvetica, sans-serif;
+  font-size: 25px;
+  font-style: bold;
+  font-style: italic;
+  color: gray;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+  text-align: center;
