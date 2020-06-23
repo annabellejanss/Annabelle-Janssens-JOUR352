@@ -1,6 +1,9 @@
 #content {
   margin: 0 auto;
   width: 900px;
+  font-family: 'Open Sans', Georgia, serif;
+  font-size: 13px
+  color: #466995;
 }
 
 p {
@@ -11,8 +14,9 @@ p {
 h1 {
   font-family: Helvetica, sans-serif;
   font-size: 60px;
-  margin: 0 auto;
-  text-align: center;
+
+}
+
 }
 
 #byline {
@@ -20,18 +24,21 @@ font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
 text-align: center;
+margin: 0 auto 0 auto;
 }
 
 blockquote {
   font-family: Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-style: bold;
-  color: #466995
-  margin-top:30px;
+  color: #466995;
+  margin-top: 10px;
   margin-bottom: 20px;
   margin-left: 50px;
   padding-left: 15px;
   border-left: 4px solid #ccc;
+  text-align: center;
+  background-color:
 }
 
 .image1 {
