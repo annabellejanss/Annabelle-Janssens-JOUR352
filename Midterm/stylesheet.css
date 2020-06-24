@@ -13,7 +13,7 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 25px;
   color: orange;
   text-align: left;
   font-style: bold;
@@ -36,6 +36,7 @@ h3 {
   margin:0 auto;
   color:black;
   font-style: bold;
+  text-align: left;
 
 }
 
@@ -101,3 +102,18 @@ blockquote {
   padding-left: 15px;
   border-left: 4px solid #ccc;
   text-align: center;
+}
+
+#name {
+  font-size: 20px;
+  color: orange;
+  font-style: bold;
+}
+
+#question {
+  font-size: 18px;
+  color: gray;
+  font-style: bold;
+  font-style: italic;
+  font-style:oblique;
+}
