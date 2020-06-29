@@ -1,0 +1,121 @@
+.sectionheader {
+  font-size:1.5em;
+  background:#1190C7;
+  text-align: center;
+  color:#fff;
+  font-weight: :400;
+  margin-top:5px;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left:0;
+  width:70%;
+  min-width: 300px;
+  font-family: Georgia, sans-serif;
+  font-style: italic;
+
+}
+.jumbotron {
+  color: black;
+  text-align: center;
+}
+
+.sectionheader2 {
+  font-size:20px;
+  background:#1190C7;
+  text-align: center;
+  color:#fff;
+  font-family: Georgia, sans-serif;
+  font-style: bold;
+}
+
+.nobullet {
+  list-style-type: none;
+  font-family: Georgia, sans-serif;
+  font-style: bold;
+  text-align: center;
+}
+
+.image1 {
+  width: 30%;
+  height: 30%;
+  margin: 0 auto 0 auto;
+
+}
+
+.name {
+  font-size:40px;
+  font-style: bold;
+  text-align: left;
+  color: black;
+  margin-top:5px;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left:0;
+  width:70%;
+  min-width: 300px;
+  font-family: Georgia, sans-serif;
+
+
+}
+
+.bio {
+  font-family: Georgia, sans-serif;
+
+}
+
+.jobtitle {
+  font-family: Georgia, sans-serif;
+  font-style: bold;
+  font-size: 25px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.organization {
+  font-family: Georgia, sans-serif;
+  font-style: bold;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.date {
+  font-family: Georgia, sans-serif;
+  margin-left: 20px;
+  font-size: 18px;
+  font-style: italic;
+
+}
+
+#description {
+  font-family: Georgia, sans-serif;
+  margin-left: 60px;
+}
+
+h3 {
+  font-family: Georgia, sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+  font-family: Georgia, sans-serif;
+}
+
+.image2 {
+  width: 90%;
+  height: 20%;
+}
+
+.image3 {
+  width: 90%;
+  height: 20%;
+}
+
+.image4 {
+  width: 90%;
+  height: 20%;
+}
+
+.image5 {
+  width: 90%;
+  height: 18%;
+}
